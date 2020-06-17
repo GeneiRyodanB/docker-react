@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was chanaged in feature branch
+          I was chanaged in feature branch.
         </a>
       </header>
     </div>
